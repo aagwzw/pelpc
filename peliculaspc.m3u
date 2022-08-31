@@ -3,6 +3,36 @@
 #EXTINF:-1, tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas",Llenos de gracia
 http://127.0.0.1:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
 
+#EXTINF:-1, tvg-id="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas",El hombre del norte
+http://127.0.0.1:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5edc
+
+#EXTINF:-1, tvg-id="Top Gun Maverick" tvg-logo="https://www.elseptimoarte.net/imagenes/noticias/116710.jpg" group-title="Peliculas",Top Gun Maverick
+http://127.0.0.1:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
+
+#EXTINF:-1, tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil",Lightyear
+http://127.0.0.1:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
+
+#EXTINF:-1, tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil",El ascenso de las tortugas ninja
+http://127.0.0.1:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
+
+#EXTINF:-1, tvg-id="Live is life" tvg-logo="https://pics.filmaffinity.com/Live_is_Life_La_gran_aventura-838891361-large.jpg" group-title="Peliculas",Live is life
+http://127.0.0.1:6878/ace/getstream?id=7d10402fbe87dee625cb6941c51486bcec5e5740
+
+#EXTINF:-1, tvg-id="Turno de Dia" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/09/11/50/5432285.jpg" group-title="Peliculas",Turno de Dia
+http://127.0.0.1:6878/ace/getstream?id=20646fb542582a41e8e94eee4838de0f9f70137c
+
+#EXTINF:-1, tvg-id="Dog un viaje salvaje" tvg-logo="https://pics.filmaffinity.com/Dog_Un_viaje_salvaje-263685812-large.jpg" group-title="Peliculas",Dog un viaje salvaje
+http://127.0.0.1:6878/ace/getstream?id=b038fe73212ad60394e5e0776da5a45b7d9d492e
+
+#EXTINF:-1, tvg-id="Luck" tvg-logo="https://pics.filmaffinity.com/Luck-918375726-large.jpg" group-title="Infantil",Luck
+http://127.0.0.1:6878/ace/getstream?id=0b90c5576f78ff7f8a52321386b1642ef6cc65a9
+
+#EXTINF:-1, tvg-id="El agente invisible" tvg-logo="https://pics.filmaffinity.com/the_gray_man-486053339-large.jpg" group-title="Peliculas",El agente invisible
+http://127.0.0.1:6878/ace/getstream?id=8200748db85a8665661d88a4582fbb378d683271
+
+#EXTINF:-1, tvg-id="La ejecucion" tvg-logo="https://static.filmin.es/images/media/36956/5/poster_2_3.png" group-title="Peliculas",La ejecucion
+http://127.0.0.1:6878/ace/getstream?id=ebe3ae111ca4c1bc00f6b852527a3cc62cafc898
+
 #EXTINF:-1, tvg-id="Codigo Emperador" tvg-logo="https://pics.filmaffinity.com/C_digo_Emperador-542616770-mmed.jpg" group-title="Peliculas",Codigo Emperador
 http://127.0.0.1:6878/ace/getstream?id=61533b25fcdf02ee114a6e7050e442f932d6a0c7
 
