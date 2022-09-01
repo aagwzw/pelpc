@@ -12,6 +12,12 @@ http://127.0.0.1:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
 #EXTINF:-1, tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil",Lightyear
 http://127.0.0.1:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
 
+#EXTINF:-1, tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk",1x1 She-Hulk
+http://127.0.0.1:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
+
+#EXTINF:-1, tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk",1x2 She-Hulk
+http://127.0.0.1:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
+
 #EXTINF:-1, tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil",El ascenso de las tortugas ninja
 http://127.0.0.1:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
 
